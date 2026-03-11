@@ -1,0 +1,50 @@
+---
+layout: default
+title: Privacy Policy
+---
+
+# MB DESIGN & REMODEL PRIVACY POLICY
+
+**Effective Date:** March 12, 2026
+
+## 1. INFORMATION WE ACCESS
+
+Alpha Engine (our internal AI system) accesses the following QuickBooks Online data:
+- Financial reports (Profit & Loss, Balance Sheet, Cash Flow)
+- Invoice and Accounts Receivable data
+- Chart of Accounts and expense categories
+- Company financial metadata
+
+## 2. HOW WE USE DATA
+
+- **Financial Monitoring:** Track project ROI and cash flow
+- **Automated Reporting:** Generate internal financial snapshots
+- **Hard Stop Alerts:** Notify management when spending thresholds are exceeded
+
+## 3. DATA STORAGE
+
+All data is stored securely in:
+- **Supabase** (encrypted PostgreSQL database)
+- **Edge Functions** (serverless compute, no client-side storage)
+- **Row-Level Security** enforced on all database tables
+
+## 4. NO THIRD-PARTY SHARING
+
+We do not sell, rent, or share financial data with third parties. QuickBooks integration is read-only for internal analysis.
+
+## 5. YOUR RIGHTS
+
+Company personnel may request:
+- Access to their data logs
+- Correction of inaccurate records
+- Deletion of historical snapshots (retained for 90 days)
+
+## 6. CONTACT
+
+**Data Controller:** MB Design & Remodel  
+Email: [YOUR EMAIL]  
+Address: [YOUR BUSINESS ADDRESS]
+
+## 7. CHANGES TO POLICY
+
+We may update this policy as the system evolves. Changes will be posted here with an updated effective date.
